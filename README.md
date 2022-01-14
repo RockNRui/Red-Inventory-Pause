@@ -3,6 +3,8 @@ This is a Minecraft datapack that allows you to temporarily pause the player's i
 
 This takes away their hotbar, offhand, armor, and inventory temporarily. They cannot pick up new items or access their old ones.
 
+Demo video: https://youtu.be/OE2iPjaTza0
+
 # How to use
 
 To pause someone, run `/function red_inventory_pause:interface/pause` as the player you wise to pause. 
