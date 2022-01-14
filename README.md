@@ -1,7 +1,7 @@
-# Red Inventory Pause (rip)
+# Red Inventory Pause (r.i.p.)
 This is a Minecraft datapack that allows you to temporarily pause the player's inventory.
 
-#How to use
+# How to use
 
 To pause someone, run `/function red_inventory_pause:interface/pause` as the player you wise to pause. `function red_inventory_pause:interface/unpause` for the reverse.
 You can also do `/scoreboard players set $player_can_unpause rip.master 1` prior to pausing to allow the player to unpause their inventory themselves via updating it.
