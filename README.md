@@ -21,6 +21,6 @@ Player Data Storage by Suso: https://github.com/5uso/Player-Data-Storage
 
 Inventory Manipulation by McTsts: https://github.com/McTsts/inv-manipulation
 
-(Make sure to run `/function inv:setup` to setup the above datapack, as well as reading its doccumentation.)
+(Make sure to run `/function inv:setup` to setup the above datapack, as well as reading its documentation.)
 
 Black Box Library by Me: https://github.com/RockNRui/Black-Box-Library
